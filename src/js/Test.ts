@@ -1,6 +1,6 @@
 export class Test{
 
-    helloWorld(){
-        return "Hello world 222";
+    helloWorld(helloWorld: string){
+        return helloWorld;
     }
 }
