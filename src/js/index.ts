@@ -4,3 +4,4 @@ import { Test } from './Test';
 let test = new Test();
 console.log(test.helloWorld("Hello world"));
 console.log(test.helloWorld("Hello world testing"));
+console.log(test.helloWorld("Hello world With Babel and SCSS"));
